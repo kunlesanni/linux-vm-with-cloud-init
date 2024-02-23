@@ -1,4 +1,4 @@
-# linux-vm-with-cloud-initIn this article
+# linux-vm-with-cloud-init
 Cloud-init overview
 Create cloud-init config file
 Create virtual machine
